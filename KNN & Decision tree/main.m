@@ -1,4 +1,4 @@
-% IE6318 HW2 - Classification Using KNN & Decision Tree
+Classification Using KNN & Decision Tree
 % Attribute Information:
 %  1. sepal length in cm
 %  2. sepal width in cm
